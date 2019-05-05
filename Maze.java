@@ -93,14 +93,14 @@ public class Maze{
 
 
 
-      private int solve(int row, int col){
-        if(animate){
-          clearTerminal();
-          System.out.println(this);
-          wait(20);
-        }
-        return -1;
-      }
+    //  private int solve(int row, int col){
+    //    if(animate){
+    //      clearTerminal();
+    //      System.out.println(this);
+    //      wait(20);
+    //    }
+    //    return -1;
+    //  }
 
 
 
